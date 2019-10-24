@@ -1,2 +1,5 @@
-# test2
-Ceci est un test
+@echo off
+
+écho salut
+
+pause>nul
